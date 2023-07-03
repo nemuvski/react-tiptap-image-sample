@@ -1,0 +1,6 @@
+.Layout {
+  inline-size: 100%;
+  max-inline-size: 42rem;
+  padding-inline: 1rem;
+  margin: 5rem auto;
+}

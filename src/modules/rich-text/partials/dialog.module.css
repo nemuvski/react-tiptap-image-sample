@@ -1,0 +1,7 @@
+.Dialog {
+  width: 40rem;
+}
+
+.Dialog::backdrop {
+  backdrop-filter: blur(0.08rem);
+}
